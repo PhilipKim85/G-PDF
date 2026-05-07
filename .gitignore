@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Environment / secrets
+*.env
+.env
+config_local.py
+secrets.*
+
+# Test data (실제 업무 데이터 제외)
+test_data/
+*.hwp
+*.hwpx
+*.docx
+*.xlsx
+*.pptx
+*.pdf
+
+# Logs
+*.log

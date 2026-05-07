@@ -1,0 +1,47 @@
+G-PDF - 문서 변환 & PDF 압축 도구
+Copyright (C) 2025-2026 서울특별시 강남구 (Gangnam-gu, Seoul)
+Author: 김택중 (강남구청 세무관리과)
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, version 3.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program. If not, see <https://www.gnu.org/licenses/>.
+
+---
+
+THIRD-PARTY LICENSES
+
+This software uses the following third-party libraries:
+
+- Ghostscript (AGPL-3.0) - PDF compression engine
+  https://www.ghostscript.com/
+
+- PyMuPDF (AGPL-3.0) - PDF processing
+  https://github.com/pymupdf/PyMuPDF
+
+- pikepdf (MPL-2.0) - PDF read/write/optimization
+  https://github.com/pikepdf/pikepdf
+
+- pypdf (BSD-3-Clause) - PDF processing
+  https://github.com/py-pdf/pypdf
+
+- Pillow (MIT-CMU) - Image processing
+  https://github.com/python-pillow/Pillow
+
+- rhwp (MIT) - HWP viewer/editor
+  https://github.com/nicedoc/rhwp
+
+- LibreOffice (MPL-2.0/LGPL-3.0) - Office document conversion
+  https://www.libreoffice.org
+
+- tkinterdnd2 (MIT) - Drag & drop support for Tkinter
+  https://github.com/pmgagne/tkinterdnd2
+
+See LICENSES/ folder for full license texts.

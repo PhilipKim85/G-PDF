@@ -1,0 +1,7 @@
+Mozilla Public License Version 2.0 / GNU Lesser General Public License v3.0
+
+LibreOffice - Free and Open Source Office Suite
+Copyright (c) The Document Foundation
+
+LibreOffice is available under a dual LGPLv3+ and MPL 2.0 license.
+Full license text: https://www.libreoffice.org/about-us/licenses/

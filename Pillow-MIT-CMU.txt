@@ -1,0 +1,10 @@
+MIT-CMU License (Historical Permission Notice and Disclaimer)
+
+Pillow - The friendly PIL fork
+Copyright (c) 1997-2011 by Secret Labs AB
+Copyright (c) 1995-2011 by Fredrik Lundh
+Copyright (c) 2010-2026 by Jeffrey A. Clark and contributors
+
+Permission to use, copy, modify, and distribute this software and its
+documentation for any purpose and without fee is hereby granted,
+provided that the above copyright notice appear in all copies.
